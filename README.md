@@ -7,3 +7,5 @@
 ## Sorting
 - [Bubble Sort](./Sorting/BubbleSort.c)
 - [Insertion Sort](./Sorting/InsertionSort.c)
+- [Merge Sort](./Sorting/MergeSort.c)
+- [Quick Sort](./Sorting/QuickSort.c)
